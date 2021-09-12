@@ -1,2 +1,2 @@
-# mrjibh.github.io
-Repositorio de páginas web de prueba
+# paginarebasica.github.io
+Repositorio de una página web super básica
